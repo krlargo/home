@@ -1,0 +1,140 @@
+a.anchor {
+	display: block;
+	position: relative;
+	top: 100px;
+	visibility: hidden;
+}
+
+a:link, a:visited {
+	color: #DDDDDD;
+}
+
+a:visited {
+	color: #DDDDDD;
+}
+
+body {
+	background-color: #7D7D7D;
+	color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	padding: 0;
+  text-align: justify;
+  text-indent: 25px;
+}
+
+h3 {
+	background-color: #555555;
+	border-radius: 4px;
+	color: #EEEEEE;
+	font-family: "Trebuchet MS", Arial, Verdana;
+	font-size: 15px;
+	padding: 5px 10px;
+	position: relative;
+	margin: 10px;
+	text-transform: uppercase;
+}
+
+h3 span {
+	position: absolute;
+	top: -130px;
+}
+
+img {
+	margin: 10px;
+	vertical-align: middle;
+}
+
+img.iconImage {
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 15px;
+	overflow: hidden;
+}
+
+ul {
+	padding: 0px 30px;
+}
+
+#main {
+	margin: 0 auto;
+	margin-top: 110px;
+	width: 810px;
+}
+
+#headerContentCenter {
+	height: 120px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 810px;
+}
+
+#headerTitle {
+	bottom: 5px;
+	right: 20px;
+	position: absolute;
+}
+
+#topNav {
+  background-color: #2D2D2D;
+  color: #FFFFFF;
+  font-family: "Trebuchet MS", Arial, Verdana;
+	font-size: 25px;
+	height: 120px;
+  overflow: hidden;
+  position: fixed;
+	text-align: center;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.sideNav {
+	background-color: #555555;
+	height: 100%;
+	padding: 10px;
+	position: fixed;
+	width: 200px;
+	z-index: 50;
+}
+
+ul.sideNavButtons {
+  background-color: transparent;
+	list-style-type: none;
+	margin: 10px 0px 0px 0px;
+	padding: 0;
+}
+
+ul.sideNavButtons li {
+	background-color: #444444;
+	border-radius: 3px;
+	color: #EEEEEE;
+	font-family: Arial, Verdana;
+	font-size: 12px;
+	margin: 5px 0px;
+	padding: 7px;
+	text-align: center;
+	text-transform: uppercase; 
+}
+
+ul.sideNavButtons a {
+	text-decoration: none;
+}
+
+#mainContent {
+	font-family: "Trebuchet MS", Arial, Verdana;
+	font-size: 13px;
+	margin-left: 220px;
+	padding-top: 10px;
+	text-align: left;
+	width: 600px;
+}
+
+.section {
+	margin: 5px 30px 0px 30px;
+	text-align: justify;
+}
