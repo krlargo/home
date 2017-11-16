@@ -75,6 +75,7 @@ ul {
 	margin-top: 10px;
   margin-left: 220px;
   padding-top: 10px;
+	padding-bottom: 30px;
   text-align: left;
   width: 590px;
 }
@@ -143,6 +144,6 @@ ul.sideNavButtons a {
 
 .section {
 	margin: 0px 10px 0px 10px;
-	padding: 0.5px 30px 0.5px 30px;
+	padding: 0px 30px 0px 30px;
 	text-align: justify;
 }
